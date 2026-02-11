@@ -1,0 +1,5 @@
+{
+  "name": "Network Stream Player",
+  "description": "A web-based network stream video player UI supporting custom URLs, headers, and playlists.",
+  "requestFramePermissions": []
+}
